@@ -70,7 +70,7 @@ public class MDIAmazonTest {
         firstProduct.click();
 
         //click on the second item
-        WebElement secondItem1 = driver.findElement(By.xpath("(//ul[@class=\"a-unordered-list a-nostyle a-horizontal octopus-pc-card-list octopus-pc-card-height-v3\"]//a)[2]"));
+        WebElement secondItem1 = driver.findElement(By.xpath("(//ul[@class=\"a-unordered-list a-nostyle a-horizontal octopus-pc-card-list octopus-pc-card-height-v3\"]//a)[4]"));
         secondItem1.click();
 
         //click on the choose quantity dropbox
