@@ -29,7 +29,7 @@ Second Scenario:
 	you need to choose which item you want to select , it's on the Second item by defualt you can change it by changing the number [2] in the end of line 68 
 
 	you can choose the quantity it's two by defualt ( say you want to get 3 of that Item you need to change "quantity_1" --> "quantity_2"  
- Note the quantity you want  = "quantity_you will write %2"    Line 76
+ 	Note the quantity you want  = "quantity_you will write %2"    Line 76
 
 	in Assertion:
 
